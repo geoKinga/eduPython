@@ -1,2 +1,3 @@
 # eduPython
-podstawy programowania w Pythonie
+podstawy programowania w Pythonie,
+zadania i rozwiazania !
